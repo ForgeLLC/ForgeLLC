@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ForgeLLC/ForgeLLC/main/assets/readme-banner-2560x800.png" alt="LLCForge" width="100%">
+  <img src="https://raw.githubusercontent.com/ForgeLLC/ForgeLLC/main/assets/readme-banner-2560x800.png" alt="ForgeLLC" width="100%">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ```rust
 /// No face. No voice. Just a process.
-pub struct LlcForge {
+pub struct ForgeLLC {
     role:       &'static str,
     based_in:   &'static str,
     languages:  [&'static str; 3],
@@ -31,7 +31,7 @@ pub struct LlcForge {
     philosophy: &'static str,
 }
 
-impl LlcForge {
+impl ForgeLLC {
     pub const fn new() -> Self {
         Self {
             role:       "Security researcher & open-source developer",
@@ -181,9 +181,9 @@ Defensive tooling for CVE research, binary analysis and vulnerability disclosure
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ForgeLLC/ForgeLLC/main/assets/llcforge-wordmark-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ForgeLLC/ForgeLLC/main/assets/llcforge-wordmark-light.svg">
-    <img src="https://raw.githubusercontent.com/ForgeLLC/ForgeLLC/main/assets/llcforge-wordmark-dark.svg" alt="LLCForge" height="34">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ForgeLLC/ForgeLLC/main/assets/forgellc-wordmark-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ForgeLLC/ForgeLLC/main/assets/forgellc-wordmark-light.svg">
+    <img src="https://raw.githubusercontent.com/ForgeLLC/ForgeLLC/main/assets/forgellc-wordmark-dark.svg" alt="ForgeLLC" height="34">
   </picture>
 </p>
 
