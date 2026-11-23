@@ -11,7 +11,7 @@ and for `main`. Older releases may receive fixes at our discretion.
 
 Use GitHub's private vulnerability reporting instead: open the repository's **Security** tab and click
 **"Report a vulnerability"**. If that is unavailable for the repository in question, report it through
-the private vulnerability form of the [LLCForge/LLCForge](https://github.com/LLCForge/LLCForge/security) repository.
+the private vulnerability form of the [ForgeLLC/ForgeLLC](https://github.com/ForgeLLC/ForgeLLC/security) repository.
 
 Please include:
 
@@ -35,5 +35,5 @@ publishing details. We will credit you in the advisory and release notes unless 
 ## Scope
 
 Vulnerabilities in the source code, build pipeline, release artifacts and default configurations of
-LLCForge projects are in scope. Issues in third-party dependencies should be reported upstream; let us
+ForgeLLC projects are in scope. Issues in third-party dependencies should be reported upstream; let us
 know as well so we can ship an updated dependency quickly.
