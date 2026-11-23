@@ -1,7 +1,7 @@
-# Contributing to LLCForge projects
+# Contributing to ForgeLLC projects
 
 Thanks for taking the time to contribute! This document applies to every repository under
-[github.com/LLCForge](https://github.com/LLCForge) unless the repository has its own `CONTRIBUTING.md`.
+[github.com/ForgeLLC](https://github.com/ForgeLLC) unless the repository has its own `CONTRIBUTING.md`.
 
 ## Before you start
 
